@@ -6,7 +6,7 @@
 
 ## 下载
 
-最新 exe 见右侧 **Releases**（不开源仓库根目录，仅作发布产物）：<https://github.com/2581374794/txtrar/releases>
+Windows exe 可在仓库根目录直接获取，也可到 **Releases** 下载发布版本：<https://github.com/2581374794/txtrar/releases>
 
 ## 特性
 
