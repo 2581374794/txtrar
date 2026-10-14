@@ -4,6 +4,10 @@
 
 单文件 Windows exe，约 10 MB，免安装、无外部依赖，rar 引擎内嵌。
 
+## 下载
+
+最新 exe 见右侧 **Releases**（不开源仓库根目录，仅作发布产物）：<https://github.com/2581374794/txtrar/releases>
+
 ## 特性
 
 - **损坏自愈** — rar 带恢复记录时自动修复；带恢复卷时自动重建缺失分卷
